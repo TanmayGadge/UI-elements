@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    margin-top: 100vh;
+    background-color: lightblue;
+    height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    font-size: 100px;
+    font-weight: 225;
+    
+    padding-left: 1.5rem;
+    
+}
+body{
+    min-height: 80vh;
+    background-size: cover;
+    background-image: url('./Assests/background-image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    font-family:'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
